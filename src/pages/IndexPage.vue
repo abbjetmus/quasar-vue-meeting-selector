@@ -1,5 +1,5 @@
 <template>
-  <q-page class="row items-center justify-evenly">
+  <q-page class="flex flex-center">
     <VueMeetingSelectorComponent></VueMeetingSelectorComponent>
   </q-page>
 </template>
